@@ -39,7 +39,7 @@ To use this repository, you need:
 
 The fastest way to deploy Uptime Kuma is to click the **Deploy to Koyeb** button below.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=uptime-kuma-litestream&type=git&repository=koyeb/example-uptime-kuma&branch=main&builder=dockerfile&env[UPTIME_KUMA_PORT]=8000&env[LITESTREAM_ACCESS_KEY_ID]=REPLACE_ME&env[LITESTREAM_SECRET_ACCESS_KEY]=REPLACE_ME&env[LITESTREAM_BUCKET]=REPLACE_ME&env[LITESTREAM_PATH]=uptime-kuma&env[LITESTREAM_URL]=REPLACE_ME&env[LITESTREAM_REGION]=REPLACE_ME&ports=8000;http;/)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=uptime-kuma-litestream&type=git&repository=Jyf0214/koyeb-uptime-kuma&branch=main&builder=dockerfile&env%5BUPTIME_KUMA_PORT%5D=8000&env%5BLITESTREAM_ACCESS_KEY_ID%5D=REPLACE_ME&env%5BLITESTREAM_SECRET_ACCESS_KEY%5D=REPLACE_ME&env%5BLITESTREAM_BUCKET%5D=REPLACE_ME&env%5BLITESTREAM_PATH%5D=uptime-kuma&env%5BLITESTREAM_URL%5D=REPLACE_ME&env%5BLITESTREAM_REGION%5D=REPLACE_ME&ports=8000;http;/)
 
 Clicking on this button brings you to the Koyeb App creation page with most of the settings pre-configured to launch this application.  You will need to replace the values for the following variables:
 
